@@ -6,3 +6,6 @@ credentials.py
 
 #Ignore all exe files
 *.exe
+
+#Ignore bat files
+*.bat
