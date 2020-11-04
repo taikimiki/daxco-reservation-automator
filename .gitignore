@@ -1,2 +1,8 @@
 #Ignore credentials file
 credentials.py
+
+#Ignore all log files
+*.log
+
+#Ignore all exe files
+*.exe
